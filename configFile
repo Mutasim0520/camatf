@@ -1,0 +1,12 @@
+[emulator]
+directory: /home/fahim/Desktop/test_1/apps/
+apk: app-debug.apk
+apk_unaligned: app-debug-unaligned.apk
+apk_test_unaligned: app-debug-androidTest-unaligned
+adb: /home/fahim/Android/Sdk/platform-tools/adb
+avds: /home/fahim/Desktop/test_1/avds.txt
+emulator: /home/fahim/Android/Sdk/tools/emulator
+test_class: com.example.android.notepad.NotePadTest
+android:/home/fahim/Android/Sdk/tools/android
+tools:/home/fahim/Android/Sdk/tools/
+test_method: com.example.android.notepad.test/android.test.InstrumentationTestRunner

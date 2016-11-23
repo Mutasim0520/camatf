@@ -1,0 +1,9 @@
+[context]
+directory: /home/fahim/PycharmProjects/test_1/
+emulator_name:nexus_4
+abi:android-tv/x86
+android_version:25
+net_speed: 10
+net_delay: 30
+cpu_delay : 100
+Screen_orientation: landsacpe
